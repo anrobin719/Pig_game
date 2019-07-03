@@ -1,2 +1,2 @@
-# Pig_game-dice-game-
+# Pig_game
 Awsome dice game with vanila javascipt
